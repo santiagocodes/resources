@@ -1,23 +1,19 @@
 # Resources
------
 
 A collection of free web development resourses (unless stated otherwise).
 
 -----
 ## Markdown 
------
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -----
 ## HTML
------
 
 - [Phaser](http://phaser.io/) is a desktop and mobile HTML5 game framework. 
 
 -----
 ## CSS
------
 
 ### General helpful sites when coding
 
@@ -52,14 +48,12 @@ A collection of free web development resourses (unless stated otherwise).
 
 -----
 ## Design 
------ 
 
 - [absurd.design](https://absurd.design/) for absurd illustrations for your projects.
 - [HTML5UP](https://html5up.net/) for html site templates.
 
 -----
 ## Javascript
------
 
 ### General helpful sites when coding
 
@@ -82,13 +76,11 @@ A collection of free web development resourses (unless stated otherwise).
 
 -----
 ## FullStack
------
 
 - [JWT.IO](https://jwt.io/) allows you to decode, verify and generate JWT.
 
 -----
 ## Other
------
 
 - [Carbon](https://carbon.now.sh/) to create and share beautiful images of your source code.
 - [Slides](https://slides.com/) is a place for creating, presenting and sharing slide decks.
