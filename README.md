@@ -1,15 +1,23 @@
 # Resources
-A collection of free web development resourses, unless stated otherwise. 
-
 -----
 
+A collection of free web development resourses (unless stated otherwise).
+
+-----
 ## Markdown 
+-----
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -----
+## HTML
+-----
 
+- [Phaser](http://phaser.io/) is a desktop and mobile HTML5 game framework. 
+
+-----
 ## CSS
+-----
 
 ### General helpful sites when coding
 
@@ -23,6 +31,7 @@ A collection of free web development resourses, unless stated otherwise.
 
 ### Libraries and frameworks
 
+- [Tailwindcss](https://tailwindcss.com/)
 - [SASS](https://sass-lang.com/)
 - [Materialize](https://materializecss.com/)
 - [SemanticUI](https://semantic-ui.com/)
@@ -42,26 +51,46 @@ A collection of free web development resourses, unless stated otherwise.
 - [Pixact.ly](https://www.pixact.ly/) helps you visualize and understand how big a pixel is by testing you on it.  
 
 -----
-
 ## Design 
+----- 
 
 - [absurd.design](https://absurd.design/) for absurd illustrations for your projects.
 - [HTML5UP](https://html5up.net/) for html site templates.
 
 -----
-
 ## Javascript
+-----
 
 ### General helpful sites when coding
 
+- [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) is a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript.
+
 ### Libraries and frameworks
 
+- [Moment.js](https://momentjs.com/) Parse, validate, manipulate, and display dates and times in JavaScript.
+
 ### Tutorials, guides and articles
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) series of books diving deep into the core mechanisms of the JavaScript language.
+- [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital. Recommend to read YDKJS first. 
+- [Learn to Chain Map, Filter, and Reduce](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4) article.
 
 ### Games and challenges
 
 - [Javascript30](https://javascript30.com/)
+- [JS30's Github](https://github.com/wesbos/JavaScript30)
 
 -----
-
 ## FullStack
+-----
+
+- [JWT.IO](https://jwt.io/) allows you to decode, verify and generate JWT.
+
+-----
+## Other
+-----
+
+- [Carbon](https://carbon.now.sh/) to create and share beautiful images of your source code.
+- [Slides](https://slides.com/) is a place for creating, presenting and sharing slide decks.
+- [Trello](https://trello.com/) is a collaboration tool that organizes your projects into boards.
+- [IHaveBeenPawned](https://haveibeenpwned.com/) checks if you have an account that has been compromised in a data breach.
