@@ -19,6 +19,7 @@ A collection of free web development resourses (unless stated otherwise).
 
 - [mycolor.space](https://mycolor.space/) to generate nice color palettes. It also generates CSS color gradient code. 
 - [ccsmatic.com](https://www.cssmatic.com/) for gradient generator, border radius, noise texture and box shadow. 
+- [grabient.com](https://www.grabient.com/) has gradient code you can copy and even alter it before doing so.
 - [convertingcolors.com](https://convertingcolors.com/) converts colors and gives you details on them. 
 - [scrollmagic.io](https://scrollmagic.io/examples/expert/bezier_path_animation.html) for bezier (scroll) path animation. 
 
