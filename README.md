@@ -69,6 +69,7 @@ A collection of free web development resourses (unless stated otherwise).
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) series of books diving deep into the core mechanisms of the JavaScript language.
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital. Recommend to read YDKJS first. 
 - [Learn to Chain Map, Filter, and Reduce](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4) article.
+- [Just Javascript](https://justjavascript.com/) is a course imparted by Dan Abramov. Subscribe and receive this lessons on your email. 
 
 ### Games and challenges
 
