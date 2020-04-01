@@ -22,9 +22,11 @@ A collection of free web development resourses (unless stated otherwise).
 - [grabient.com](https://www.grabient.com/) has gradient code you can copy and even alter it before doing so.
 - [convertingcolors.com](https://convertingcolors.com/) converts colors and gives you details on them. 
 - [scrollmagic.io](https://scrollmagic.io/examples/expert/bezier_path_animation.html) for bezier (scroll) path animation. 
+- [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) is a chrome extension which allows you to pick colors from web pages, color picker and your personal color history.
 
 - [Pixabay](https://pixabay.com/) has free images and royalty free stock. 
-- [PostImages](https://postimages.org/) generates permanent links that can be used anywhere.  
+- [Pexels](https://www.pexels.com/) has free stock photos & videos shared by talented creators.
+- [PostImages](https://postimages.org/) generates permanent image links that can be used anywhere.  
 
 ### Libraries and frameworks
 
@@ -40,6 +42,7 @@ A collection of free web development resourses (unless stated otherwise).
 
 - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) was written to help you quickly learn CSS and get familiar with the advanced CSS topics.
 - This [CSS-tricks](https://css-tricks.com/design-considerations-text-images/) article is for design considerations when writing text on top of images.
+- [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) by Flavio Copes. An article written to help you quickly learn CSS and get familiar with the advanced CSS topics.
 
 ### Games and challenges
 
@@ -77,6 +80,11 @@ A collection of free web development resourses (unless stated otherwise).
 - [JS30's Github](https://github.com/wesbos/JavaScript30)
 
 -----
+## ReactJS
+
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) is a Chrome DevTools extension which allows you to inspect the React component hierarchies in the Chrome Developer Tools.
+
+-----
 ## FullStack
 
 - [JWT.IO](https://jwt.io/) allows you to decode, verify and generate JWT.
@@ -88,3 +96,8 @@ A collection of free web development resourses (unless stated otherwise).
 - [Slides](https://slides.com/) is a place for creating, presenting and sharing slide decks.
 - [Trello](https://trello.com/) is a collaboration tool that organizes your projects into boards.
 - [IHaveBeenPawned](https://haveibeenpwned.com/) checks if you have an account that has been compromised in a data breach.
+- [Grammarly](www.grammarly.com/) is a writing assistant that works where you write. Check grammar, wordiness, and more.
+- [Daily 2.0](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied) is a chrome extention that replaces your new tab with the latest trending dev news.
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es) is a browser extension that uncovers the technologies used on websites.
+- [Prettier](https://prettier.io/) automatically formats your code to a style when you save it. 
+
