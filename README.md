@@ -8,6 +8,13 @@ A collection of free web development resourses (unless stated otherwise).
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -----
+## Design and Wireframes
+
+- [absurd.design](https://absurd.design/) for absurd illustrations for your projects.
+- [HTML5UP](https://html5up.net/) for html site templates.
+- [Figma](https://www.figma.com/) is a cloud-based design tool for wireframes and prototypes. The free version lets you collaborate with up to two editors. 
+
+-----
 ## HTML
 
 - [Phaser](http://phaser.io/) is a desktop and mobile HTML5 game framework. 
@@ -20,13 +27,15 @@ A collection of free web development resourses (unless stated otherwise).
 - [mycolor.space](https://mycolor.space/) to generate nice color palettes. It also generates CSS color gradient code. 
 - [ccsmatic.com](https://www.cssmatic.com/) for gradient generator, border radius, noise texture and box shadow. 
 - [grabient.com](https://www.grabient.com/) has gradient code you can copy and even alter it before doing so.
-- [convertingcolors.com](https://convertingcolors.com/) converts colors and gives you details on them. 
+- [convertingcolors.com](https://convertingcolors.com/) converts colors and gives you details on them.
+- [css-separator-genetartor](https://wweb.dev/resources/css-separator-generator) is a generator for section separators with only css.
 - [scrollmagic.io](https://scrollmagic.io/examples/expert/bezier_path_animation.html) for bezier (scroll) path animation. 
 - [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) is a chrome extension which allows you to pick colors from web pages, color picker and your personal color history.
 
 - [Pixabay](https://pixabay.com/) has free images and royalty free stock. 
 - [Pexels](https://www.pexels.com/) has free stock photos & videos shared by talented creators.
 - [PostImages](https://postimages.org/) generates permanent image links that can be used anywhere.  
+- [TinyPNG](https://tinypng.com/) is used to shrink images for your apps and sites. It will use less bandwidth and load faster.
 
 ### Libraries and frameworks
 
@@ -49,12 +58,6 @@ A collection of free web development resourses (unless stated otherwise).
 - [Flexbox Froggy](http://flexboxfroggy.com/) is a game to help you with *flexbox*.
 - [Flexbox Defense](http://www.flexboxdefense.com/) is another *flexbox* game focused on using code to stop the enemy. 
 - [Pixact.ly](https://www.pixact.ly/) helps you visualize and understand how big a pixel is by testing you on it.  
-
------
-## Design 
-
-- [absurd.design](https://absurd.design/) for absurd illustrations for your projects.
-- [HTML5UP](https://html5up.net/) for html site templates.
 
 -----
 ## Javascript
@@ -100,4 +103,6 @@ A collection of free web development resourses (unless stated otherwise).
 - [Daily 2.0](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied) is a chrome extention that replaces your new tab with the latest trending dev news.
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es) is a browser extension that uncovers the technologies used on websites.
 - [Prettier](https://prettier.io/) automatically formats your code to a style when you save it. 
-
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) combines professional 8K editing, color correction, visual effects and audio post production all in one software tool.
+- [FontAwesome](https://fontawesome.com/icons?d=gallery&s=regular&m=free%5D) includes icons for just about everything, from interface, to social, arrows, and many other types of icons.
+- [IconMonstr](https://iconmonstr.com/) get you 300+ free icons in one iconic font. It has SVG icons too. 
