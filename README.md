@@ -17,6 +17,8 @@ A collection of free web development resourses (unless stated otherwise).
 -----
 ## HTML
 
+- [HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/) by Flavio Copes. 
+- [WHATWG](https://html.spec.whatwg.org/multipage/) official specifications for HTML. 
 - [Phaser](http://phaser.io/) is a desktop and mobile HTML5 game framework. 
 
 -----
