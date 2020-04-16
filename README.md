@@ -3,13 +3,11 @@
 A collection of free web development resourses (unless stated otherwise).
 
 -----
-## Markdown 
+## Design, Wireframes and Documentation
+
+### General helpful sites when coding
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
------
-## Design and Wireframes
-
 - [absurd.design](https://absurd.design/) for absurd illustrations for your projects.
 - [HTML5UP](https://html5up.net/) for html site templates.
 - [Figma](https://www.figma.com/) is a cloud-based design tool for wireframes and prototypes. The free version lets you collaborate with up to two editors. 
@@ -17,8 +15,11 @@ A collection of free web development resourses (unless stated otherwise).
 -----
 ## HTML
 
+### General helpful sites when coding
+
 - [HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/) by Flavio Copes. 
 - [WHATWG](https://html.spec.whatwg.org/multipage/) official specifications for HTML. 
+- [developers.google.com](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/replace-animated-gifs-with-video) articles. This one in specific is about replacing Animated GIFs with Video to optimize content efficiency. 
 - [Phaser](http://phaser.io/) is a desktop and mobile HTML5 game framework. 
 
 -----
@@ -78,6 +79,7 @@ A collection of free web development resourses (unless stated otherwise).
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital. Recommend to read YDKJS first. 
 - [Learn to Chain Map, Filter, and Reduce](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4) article.
 - [Just Javascript](https://justjavascript.com/) is a course imparted by Dan Abramov. Subscribe and receive this lessons on your email. 
+- [javascript.info](https://javascript.info/) How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
 ### Games and challenges
 
