@@ -5,7 +5,7 @@ A collection of free web development resourses (unless stated otherwise).
 -----
 ## Design, Wireframes and Documentation
 
-### General helpful sites when coding
+### General helpful sites and more
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [absurd.design](https://absurd.design/) for absurd illustrations for your projects.
@@ -15,7 +15,7 @@ A collection of free web development resourses (unless stated otherwise).
 -----
 ## HTML
 
-### General helpful sites when coding
+### General helpful sites and more
 
 - [HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/) by Flavio Copes. 
 - [WHATWG](https://html.spec.whatwg.org/multipage/) official specifications for HTML. 
@@ -25,7 +25,7 @@ A collection of free web development resourses (unless stated otherwise).
 -----
 ## CSS
 
-### General helpful sites when coding
+### General helpful sites and more
 
 - [mycolor.space](https://mycolor.space/) to generate nice color palettes. It also generates CSS color gradient code. 
 - [ccsmatic.com](https://www.cssmatic.com/) for gradient generator, border radius, noise texture and box shadow. 
@@ -65,7 +65,7 @@ A collection of free web development resourses (unless stated otherwise).
 -----
 ## Javascript
 
-### General helpful sites when coding
+### General helpful sites and more
 
 - [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) is a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript.
 
@@ -89,10 +89,23 @@ A collection of free web development resourses (unless stated otherwise).
 -----
 ## ReactJS
 
+### General helpful sites and more
+
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) is a Chrome DevTools extension which allows you to inspect the React component hierarchies in the Chrome Developer Tools.
 
 -----
+## NodeJS
+
+### General helpful sites and more
+
+- [Installation](https://nodejs.org/en/)
+- [npm-windows-upgrade](https://www.npmjs.com/package/npm-windows-upgrade) to upgrade npm on windows.
+- [Tutorials Dojo youtube](https://www.youtube.com/watch?v=1ropX3fg2E8) tutorial on updating Node and NPM on Windows.
+
+-----
 ## FullStack
+
+### General helpful sites and more
 
 - [JWT.IO](https://jwt.io/) allows you to decode, verify and generate JWT.
 
