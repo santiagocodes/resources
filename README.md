@@ -8,6 +8,7 @@ A collection of free web development resourses (unless stated otherwise).
 ### General helpful sites and more
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown Emoji Markup](https://gist.github.com/rxaviers/7360908)
 - [absurd.design](https://absurd.design/) for absurd illustrations for your projects.
 - [HTML5UP](https://html5up.net/) for html site templates.
 - [Figma](https://www.figma.com/) is a cloud-based design tool for wireframes and prototypes. The free version lets you collaborate with up to two editors. 
