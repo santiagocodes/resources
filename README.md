@@ -104,6 +104,7 @@ A collection of free web development resourses (unless stated otherwise).
 - [Guidelines](https://github.com/microsoft/nodejs-guidelines)
 - [npm-windows-upgrade](https://www.npmjs.com/package/npm-windows-upgrade) to upgrade npm on windows.
 - [Tutorials Dojo youtube](https://www.youtube.com/watch?v=1ropX3fg2E8) tutorial on updating Node and NPM on Windows.
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=es) is a Chrome Extension that makes JSON easy to read.
 
 -----
 ## FullStack
