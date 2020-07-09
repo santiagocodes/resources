@@ -41,6 +41,7 @@ A collection of free web development resourses (unless stated otherwise).
 - [Pexels](https://www.pexels.com/) has free stock photos & videos shared by talented creators.
 - [PostImages](https://postimages.org/) generates permanent image links that can be used anywhere.  
 - [TinyPNG](https://tinypng.com/) is used to shrink images for your apps and sites. It will use less bandwidth and load faster.
+- [Remove](https://www.remove.bg/) is used to remove the background of any image.
 
 ### Libraries and frameworks
 
