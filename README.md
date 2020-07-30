@@ -24,6 +24,19 @@ A collection of free web development resourses (unless stated otherwise).
 - [developers.google.com](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/replace-animated-gifs-with-video) articles. This one in specific is about replacing Animated GIFs with Video to optimize content efficiency. 
 - [Phaser](http://phaser.io/) is a desktop and mobile HTML5 game framework. 
 
+### HTML Templates
+
+- [HTML5UP](https://html5up.net/) "Makes spiffy HTML5 site templates that are: Fully Responsive, Built on intelligent HTML5 + CSS3Super, 100% Customizable, Free under the Creative Commons"
+- [UIDeck](https://uideck.com/templates/) "HTML Website Templates, Bootstrap Themes and UI Kits - Crafted by UIdeck for Different Kind of Websites and Landing Pages. All Templates and Themes are Fully Responsive, Easy to Use, Customizable, Compatible with All Modern Web Browsers and Ready to Use With Your Next Web Projects."
+- [GrayGrids](https://graygrids.com/) "Free Website Templates & Bootstrap Themes for - Business, Landing Page, Admin Dashboards and Resume Portfolio Websites, 400+ Ready to Use Templates and Themes to Ease Your Web Development Process."
+- [Free One Page Templates](https://onepagelove.com/templates/free-templates) "A collection of 85 Free One Page templates. Each template includes a review, long screenshot, live demo and download links. These free templates are great to quickly test our ideas before committing to a big project development."
+- [Templated](https://templated.co/) "A collection of 867 simple CSS, HTML5 & Responsive site templates, built by us and released for free under the Creative Commons."
+- [FreeHTML5](https://freehtml5.co/) "Free & Premium HTML5 Bootstrap Templates. We Carefully Crafted Beautiful & Functional Free/Premium Bootstrap Templates"
+- [W3Layouts](https://w3layouts.com/)
+- [StartBootstrap](https://startbootstrap.com/) "Start Bootstrap creates free, open source, MIT license, Bootstrap themes, templates, and code snippets for you to use on any project, guides to help you learn more about designing and developing with the Bootstrap framework, and premium Bootstrap products."
+- [TemplateMO](https://templatemo.com/) "Latest 146+ are Bootstrap templates that are responsive HTML5 mobile-ready CSS layouts. All 548+ CSS templates are absolutely 100% free download to use for your sites. You can freely use our templates for your commercial or personal purpose."
+- [CreativeTim](https://www.creative-tim.com/templates/free) "Download the best Free Themes & Templates developed by Creative Tim. Join over 1,246,860 creatives that already love our bootstrap resources!"
+
 -----
 ## CSS
 
