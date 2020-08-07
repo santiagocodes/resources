@@ -71,6 +71,7 @@ A collection of free web development resourses (unless stated otherwise).
 - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) was written to help you quickly learn CSS and get familiar with the advanced CSS topics.
 - This [CSS-tricks](https://css-tricks.com/design-considerations-text-images/) article is for design considerations when writing text on top of images.
 - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/) by Flavio Copes. An article written to help you quickly learn CSS and get familiar with the advanced CSS topics.
+- [CSS Reference](https://tympanus.net/codrops/css_reference) is an extensive CSS reference with all the important properties and info to learn CSS from the basics.
 
 ### Games and challenges
 
